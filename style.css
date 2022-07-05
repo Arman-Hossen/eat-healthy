@@ -16,7 +16,7 @@ a{
     justify-content: space-between;
     align-items: center;
     padding: 15px;
-    background-color: rgba(255,255,255,0.1);
+    background-color: #EBF8FF;
     box-shadow:0px 0px 20px rgb(0 0 0 / 10%);
     position: fixed;
     width: 1500px;
@@ -84,4 +84,15 @@ margin-left: 200px;
     color: cornsilk;
     font-weight: 700;
 
+}
+.about-me{
+    padding: 100px;
+}
+.aboutMe h1{
+    text-align: center;
+   
+}
+.about-me{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
 }
