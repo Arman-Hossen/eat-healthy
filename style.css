@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #0e2431;
+    margin: 0;
+    margin: 0;
+    padding: 0;
+   
+    
+}
+a{
+    text-decoration: none;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: rgba(255,255,255,0.1);
+    box-shadow:0px 0px 20px rgb(0 0 0 / 10%);
+    position: fixed;
+    width: 1500px;
+    height: 50px;
+}
+
+.nav-bar .logo{
+    width: 90px;
+    margin-top: 6px;
+    margin-left: 30px;
+    align-items: center;
+}
+.nav-items ul li{
+    list-style-type: none;
+    display:inline-block;
+    padding: 10px 20px;
+    margin-right: 20px;
+
+}
+.home-page{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+   
+}
+.home-page h1{
+    font-size: 700;
+}
+.home-page .home{
+padding-top: 230px;
+margin-left: 200px;
+    
+
+}
+.home-page .picture{
+  padding: 100px 50px;
+
+}
+.fexible-container{
+   
+    display: flex;
+    
+    flex-direction: row;
+    
+   
+    
+}
+.span-color{
+    color: #6a59da;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    width: 80%;
+   
+    
+}
+.click-btn{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(122, 143, 214), #6a59da);
+    padding: 20px 40px;
+    border-radius: 15px;
+    color: cornsilk;
+    font-weight: 700;
+
+}
