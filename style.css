@@ -39,6 +39,9 @@ a{
 .home-page{
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
+    background-size:     cover; 
+    background-position: center;  
+      
    
 }
 .home-page h1{
@@ -95,4 +98,39 @@ margin-left: 200px;
 .about-me{
     background-image: url(images/shapes/Frame\ 56.jpg);
     background-repeat: no-repeat;
+    background-size:     cover; 
+    background-position: center ;   
+}
+.my-secrete h1{
+    text-align: center;
+}
+.my-secrete p{
+    text-align: center;
+}
+.container{
+    text-decoration: none;
+    background-image: cornsilk;
+    padding: 20px 40px;
+    border-radius: 15px;
+    box-shadow:0px 0px 20px rgb(0 0 0 / 10%);
+    width: 40%;
+    padding-left: 5%;
+    
+}
+.container img{
+    width: 80%;
+}
+.con1{
+    margin-left: 100px;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+.con2{
+    margin-left: 30px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+    text-align: center;
 }
